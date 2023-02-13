@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html><head></head><body class"back"="" data-new-gr-c-s-check-loaded="14.1093.0" data-gr-ext-installed="">
+<style>
+.center{
+padding-left: 250px;
+padding-right: 250px;
+padding-top: 20px;
+padding-bottom: 20px;
+font-family: 'Courier New', monospace;
+}
+  
+.button-grow-right {
+  background-color: #e8e9eb;
+  border: 12px solid #4d4d4d;
+  border-radius: 0px;
+  padding: 10px 24px;
+  width: 250px;
+  height:100px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  font-family: 'Courier New', monospace;
+  font-color:black;
+  font-size: 12px;
+  float: right;
+  display: flex;
+  align-items: right;
+  justify-content: space-between;
+}
+
+.button-grow-left:hover {
+  transform: scale(1.1);
+}
+.button-grow-right:hover {
+  transform: scale(1.1);
+}
+.title{
+background-color: #bdbdbd;
+font-family: 'georgia';
+font-size:50px;
+}
+</style>
+<video width="640" height="480" controls>
+  <source src="single_story.mp4" type="video/mp4">
+</video>
+  <a href="https://tv.mattharty.com/single_story.html"><button class="button-grow-right">Breaking News: Single Story</button></a>
+  <br><a href="https://tv.mattharty.com/dunbar.html"><button class="button-grow-right">Breaking News: Death of Paul L. Dunbar</button></a>
+</center>
+</html>
